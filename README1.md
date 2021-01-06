@@ -1,6 +1,6 @@
-# HomeWork_01
+# reFactoring 
 
-I was hired by a marketing agency to refactor an existing site to make it more accessible.
+In this project "I was hired by a marketing agency" to refactor an existing site to make it more accessible.
 
 The accessibility of a website can be pertinent for any business as it ensures that people with disabilities are able to view with additional supportive technology. 
 
